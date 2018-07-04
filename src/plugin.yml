@@ -1,0 +1,5 @@
+name: Attributes
+main: nl.marido.attributes.Resource
+version: 1.0
+author: Marido
+description: Attributes is an useful liberary to modify the NBT-data for items.
