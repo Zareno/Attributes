@@ -15,8 +15,3 @@ item = Attributes.addAttribute(item, "generic.attackDamage", 100);
 # Get a NBTTagList of modifiers on the item by calling this.
 String list = Attributes.getAttributes(item);
 ```
-</br>
-  
-## Credits
-**Marido** for updating and adding methods in the Attributes class.
-**HugoDaBosss** for adding the advanced stuff to the Attributes class.
